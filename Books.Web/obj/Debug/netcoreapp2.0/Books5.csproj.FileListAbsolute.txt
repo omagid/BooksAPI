@@ -1,0 +1,11 @@
+c:\users\oded\source\repos\Books5\Books5\bin\Debug\netcoreapp2.0\Books5.deps.json
+c:\users\oded\source\repos\Books5\Books5\bin\Debug\netcoreapp2.0\Books5.runtimeconfig.json
+c:\users\oded\source\repos\Books5\Books5\bin\Debug\netcoreapp2.0\Books5.runtimeconfig.dev.json
+c:\users\oded\source\repos\Books5\Books5\bin\Debug\netcoreapp2.0\Books5.dll
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.csprojResolveAssemblyReference.cache
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.csproj.CoreCompileInputs.cache
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.AssemblyInfoInputs.cache
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.AssemblyInfo.cs
+c:\users\oded\source\repos\Books5\Books5\bin\Debug\netcoreapp2.0\Books5.pdb
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.dll
+c:\users\oded\source\repos\Books5\Books5\obj\Debug\netcoreapp2.0\Books5.pdb

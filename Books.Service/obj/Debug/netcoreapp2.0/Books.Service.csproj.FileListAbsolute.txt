@@ -1,0 +1,13 @@
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Service.deps.json
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Service.dll
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Service.pdb
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.csproj.CoreCompileInputs.cache
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.AssemblyInfoInputs.cache
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.AssemblyInfo.cs
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.dll
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.pdb
+C:\Users\Oded\source\repos\Books\Books.Service\obj\Debug\netcoreapp2.0\Books.Service.csprojResolveAssemblyReference.cache
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Data.dll
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Data.pdb
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Repository.dll
+C:\Users\Oded\source\repos\Books\Books.Service\bin\Debug\netcoreapp2.0\Books.Repository.pdb
